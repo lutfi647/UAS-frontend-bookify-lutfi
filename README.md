@@ -1,12 +1,43 @@
-# React + Vite
+# UAS Front-End Engineer - Bookify by Lutfi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Nama: **Lutfi Fuat Azhar**  
+NIM: **0110223119**  
+Mata Kuliah: **Pemrograman Front-End (SE-01)**  
+Kampus: **STT Terpadu Nurul Fikri**
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📚 Deskripsi
 
-## Expanding the ESLint configuration
+**Bookify** adalah aplikasi daftar buku modern yang dibuat menggunakan **ReactJS** dan **TailwindCSS**. Aplikasi ini mendukung fitur **CRUD**, **pencarian buku**, **favorit**, serta pengambilan data dari **Google Books API**. Aplikasi ini dibuat untuk memenuhi **Ujian Akhir Semester (UAS)** mata kuliah *Frontend Programming*.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Fitur Utama
+
+- ✅ Menampilkan daftar buku (localStorage dan API)
+- ✅ Tambah, edit, hapus data buku
+- ✅ Cari buku berdasarkan judul
+- ✅ Tandai buku sebagai favorit
+- ✅ Mode gelap (Dark Mode)
+- ✅ Ambil data dari Google Books (Axios)
+- ✅ Navigasi antar halaman dengan React Router
+- ✅ Tampilan responsif untuk desktop & mobile
+
+---
+
+## teknologi yang Digunakan
+
+- **ReactJS** — Library modern untuk membuat UI komponen
+- **Vite** — Build tool ringan & cepat
+- **Tailwind CSS** — Framework utility-first untuk styling responsif
+- **Axios** — Untuk mengambil data dari API
+- **LocalStorage** — Menyimpan data buku secara lokal
+- **React Router Dom** — Navigasi antar halaman
+- **Dark Mode Toggle** — Disimpan otomatis di localStorage
+- **PostCSS** — Untuk konfigurasi Tailwind di Vite
+
+---
+
+
+
