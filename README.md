@@ -2,14 +2,13 @@
 
 Nama: **Lutfi Fuat Azhar**  
 NIM: **0110223119**  
-Mata Kuliah: **Pemrograman Front-End (SE-01)**  
 Kampus: **STT Terpadu Nurul Fikri**
 
 ---
 
 ## 📚 Deskripsi
 
-**Bookify** adalah aplikasi daftar buku modern yang dibuat menggunakan **ReactJS** dan **TailwindCSS**. Aplikasi ini mendukung fitur **CRUD**, **pencarian buku**, **favorit**, serta pengambilan data dari **Google Books API**. Aplikasi ini dibuat untuk memenuhi **Ujian Akhir Semester (UAS)** mata kuliah *Frontend Programming*.
+**Bookify** adalah aplikasi daftar buku modern yang dibuat menggunakan **ReactJS** dan **TailwindCSS**. Aplikasi ini mendukung fitur **CRUD**, **pencarian buku**, **favorit**, serta pengambilan data dari **Google Books API**
 
 ---
 
