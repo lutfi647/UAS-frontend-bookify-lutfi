@@ -1,4 +1,4 @@
-# UAS Front-End Engineer - Bookify by Lutfi
+ Bookify by Lutfi
 
 Nama: **Lutfi Fuat Azhar**  
 NIM: **0110223119**  
